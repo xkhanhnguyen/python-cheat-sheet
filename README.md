@@ -1,7 +1,7 @@
-My Python Cheat Sheet
-* Numpy
-* Matplotlib
-* Scipy
-* Pandas
-* Scikit learn
-* Seaborn
+# Python Cheat Sheet
+- Numpy
+- Matplotlib
+- Scipy
+- Pandas
+- Scikit learn
+- Seaborn
